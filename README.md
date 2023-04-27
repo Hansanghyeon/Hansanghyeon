@@ -6,4 +6,4 @@
 - webfont
 - eqalbat
 - self-host
-- [alfred-workflow]((https://github.com/Hansanghyeon?tab=repositories&q=alfred-workflow)
+- [alfred-workflow](https://github.com/Hansanghyeon?tab=repositories&q=alfred-workflow)
