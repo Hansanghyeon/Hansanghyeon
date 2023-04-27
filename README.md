@@ -5,3 +5,4 @@
 - hansanghyeon-automation
 - webfont
 - eqalbat
+- self-host
