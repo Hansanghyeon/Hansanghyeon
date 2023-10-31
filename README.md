@@ -1,14 +1,14 @@
 ## Web Developer
 
 **stack**
-- nextjs + tanstack + tailwindcss
+- nextjs + tanstack + tailwindcss (현업 사용중)
   - `tanstack/query`
   - `tanstack/table`
   - `react-hook-form`
   - `vite@^4.0`
   - `rollup@^3.0`
   - `babel + emotion = twin.macro (tailwindcss - CSS-in-JS)`
-- react + tanstack + tailwindcss (테스트)
+- react + tanstack + tailwindcss (다음 스텝 테스트)
   - `vite@^5.0`
   - `rollup@^4.0`
   - `tanstack/router`
